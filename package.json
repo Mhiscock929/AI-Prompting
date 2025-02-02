@@ -2,7 +2,7 @@
     "name": "prompt-tutor-app",
     "version": "1.0.0",
     "private": false,
-    "scripts": {
+    "scripts": { 
       "dev": "next dev",
       "build": "next build",
       "start": "next start"
