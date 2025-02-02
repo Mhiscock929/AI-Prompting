@@ -1,12 +1,12 @@
 {
     "name": "prompt-tutor-app",
     "version": "1.0.0",
-    "private": false,
+    "private": true,
     "scripts": {
       "dev": "next dev",
       "build": "next build",
       "start": "next start"
-        },
+    },
     "dependencies": {
       "framer-motion": "^10.12.16",
       "next": "13.4.10",
@@ -14,4 +14,5 @@
       "react-dom": "18.2.0"
     }
   }
+  
   
